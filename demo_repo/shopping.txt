@@ -1,8 +1,8 @@
 Shopping List
 
 apples
-bananas
-yogurt
+6 bananas
+vanilla yogurt
 milk
 bread
 cereal
