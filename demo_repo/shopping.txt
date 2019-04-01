@@ -1,12 +1,12 @@
 Shopping List
 
-apples
+red apples
 6 bananas
 vanilla yogurt
 milk
 bread
 cereal
-eggs
+kjol eggs
 bacon
 orange juice
 grapes
